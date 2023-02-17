@@ -1,8 +1,7 @@
 # CLI-Drills
 - Practicing and learning how to work on the terminal
 ~~~
-CRUD operation
-
+* CRUD operation
 * Software management
 * Pipe- Eg:(cat file.txt | wc -l)
 * Process and port
